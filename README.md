@@ -1,4 +1,5 @@
 # ikt-csoport-munka
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="hu">
 <head>
@@ -12,3 +13,6 @@
     
 </body>
 </html>
+=======
+
+>>>>>>> be7d7ad9bd7afc9d1e405010e185ced79dfb06e3
