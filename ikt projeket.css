@@ -1,12 +1,12 @@
 header{
     float: left;
     border: solid 1px;
-    background-color: darkgrey;
+    background-color: #424242;
 }
 
 header h1{
     text-align: center;
-    padding-top: 75px;
+    padding-top: 40px;
     border: solid 1px;
     border-radius: 70%;
     background-color: green;
@@ -14,13 +14,12 @@ header h1{
     height: 25px;
     margin: auto;
     padding-bottom: 70px;
-    
 }
 
 footer{
-    float: right;
     text-align: center;
 }
+
 
 img{
     width: 500px;
@@ -36,10 +35,32 @@ body{
 
 }
 #div2{
-    background-image: url(hatter.jpg);
+    background-image: url("hatter\ \(1\).jpg");
     width: 300px;
     height: 300px;
     padding-top: 50px;
 }
-
-
+h2 img{
+    width: 120px;
+}
+a{
+    color: white;
+}
+h1{
+    font-size: 50px;
+    height: 2cm;
+   
+}
+h2{
+    font-size: 25px;
+    padding-right: 5.5cm;
+}
+.gyakori{
+    font-size: 35px;
+}
+#korabbi{
+    padding-right: 2cm;
+}
+#darab{
+    padding-top: 2px;
+}
