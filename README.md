@@ -4,39 +4,35 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lottó</title>
-    <link rel="stylesheet" href="ikt projeket.css">
+    <title>Lottó projekt</title>
 </head>
 <body>
-   <div>
-       
     <header>
-        
-      <div id="div2">
-        <h1>Lottó</h1>
-      </div>
-       
-         <ul id="lista">
-              <li>Korábbi sorsolások</li>
-              <li>Leggyakoribb számok</li>
-              <li>Leghasonlóbb számsorok</li>
-              <li>Leghosszabb sorozatok számsorokban</li>
-              <li>Legkisebb összegű számsorok</li>
-              <li>Grafikonok</li>
-              <li>Érdekes történetek</li>
-          </ul>
-      
-      
+        <ul>
+            <li>HTML:Dudás Levente</li>
+            <li>CSS:Csanádi Kevin </li>
+            <li>Képek:Ágoston Márk </li>
+            <li>Pages:</li>
+        </ul>
     </header>
-    
-   </div>
-  
-        <footer>
-            <h1>Korábbi sorsolások</h1>
-        <h2>Az előző heti nyerőszámok</h2>
-        <img class="golyo" src="Golyó.png">
-        <h2>A múlt heti nyerőszámok</h2>
-        <img class="golyo" src="Golyó.png">
-        </footer>
+
+    <h1>Főoldal</h1>
+    <ul>
+        <li>A főoldal egy bal oldalon elhelyezkedő fejlécből és a láblécből áll.</li>
+        <li>A fejlécben található linkek használata során a weblaphoz tartozó al-oldalakra kerülünk.</li>
+        <li>Oldalváltásnál csak az oldal láblécből álló része változik.</li>
+    </ul>
+
+    <h1>HTML</h1>
+    <ul>
+        <li>Az oldal fejlécből álló része változatlan, csak a lábléc változik.</li>
+    </ul>
+
+    <h1>CSS</h1>
+    <ul>
+        <li>Az oldal fejlécére vonatkozó stilusbeállításai változatlanok</li>
+        <li>A láblécére vonatkozó stilusbeállítások (Képek, szöveg)</li>
+    </ul>
+
 </body>
 </html>
