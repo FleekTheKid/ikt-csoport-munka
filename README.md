@@ -7,10 +7,13 @@
     <title>Lottó projekt</title>
 </head>
 <body>
-HTML:Dudás Levente
-CSS:Csanádi Kevin
-Képek:Ágoston Márk
-Pages:
+<h1>Csoport</h1>
+  <ul>
+      <li>HTML:Dudás Levente</li>
+      <li>CSS:Csanádi Kevin </li>
+      <li>Képek:Ágoston Márk </li>
+      <li>Pages:</li>
+  </ul>
 <h1>Főoldal</h1>
 <ul>
     <li>A főoldal egy bal oldalon elhelyezkedő fejlécből és a láblécből áll.</li>
