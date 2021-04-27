@@ -26,6 +26,7 @@ img{
 
 body{
     width: 70%;
+    text-align: center;
 }
 
 #lista{
@@ -51,11 +52,13 @@ a{
 h1{
     font-size: 50px;
     height: 2cm;
+    text-align: center;
 }
 
 h2{
     font-size: 25px;
     padding-right: 5.5cm;
+    text-align: center;
 }
 
 .gyakori{
