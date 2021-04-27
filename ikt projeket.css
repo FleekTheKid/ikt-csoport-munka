@@ -20,7 +20,6 @@ footer{
     text-align: center;
 }
 
-
 img{
     width: 500px;
 }
@@ -32,35 +31,41 @@ body{
 #lista{
     list-style: none;
     color: white;
-
 }
+
 #div2{
     background-image: url("hatter\ \(1\).jpg");
     width: 300px;
     height: 300px;
     padding-top: 50px;
 }
-h2 img{
+
+td img{
     width: 120px;
 }
+
 a{
     color: white;
 }
+
 h1{
     font-size: 50px;
     height: 2cm;
-   
 }
+
 h2{
     font-size: 25px;
     padding-right: 5.5cm;
 }
+
 .gyakori{
-    font-size: 35px;
+    font-size: 50px;
 }
+
 #korabbi{
     padding-right: 2cm;
 }
-#darab{
-    padding-top: 2px;
+
+td{
+    padding-left: 2cm;
 }
