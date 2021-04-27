@@ -12,7 +12,7 @@
       <li>HTML:Dudás Levente</li>
       <li>CSS:Csanádi Kevin </li>
       <li>Képek:Ágoston Márk </li>
-      <li>Pages:</li>
+      <li>Pages:https://fleekthekid.github.io/ikt-csoport-munka/</li>
   </ul>
 <h1>Főoldal</h1>
 <ul>
