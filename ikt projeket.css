@@ -27,7 +27,6 @@ img{
 
 body{
     width: 70%;
-    text-align: center;
 }
 
 #lista{
@@ -72,4 +71,7 @@ h2{
 
 td{
     padding-left: 2cm;
+}
+li{
+    text-align: left;
 }
