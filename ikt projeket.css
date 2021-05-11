@@ -19,6 +19,7 @@ header h1{
 footer{
     text-align: center;
     color: black;
+    margin: auto;
 }
 
 img{
@@ -84,4 +85,9 @@ p{
     text-align: center;
     margin: auto;
 
+}
+#footer1{
+    text-align: center;
+    height: 150px;
+    width: 150px;
 }
