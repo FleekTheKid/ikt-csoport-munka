@@ -74,9 +74,11 @@ h2{
 td{
     padding-left: 2cm;
 }
+
 li{
     text-align: left;
 }
+
 p{
     padding-right: 10cm;
     font-size: 25px;
@@ -84,11 +86,10 @@ p{
 
 .footer{
     text-align: center;
-    
-
 }
 
 #jobb {
     margin-left: 40%;
-
 }
+
+
