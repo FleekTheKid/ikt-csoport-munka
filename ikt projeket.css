@@ -34,6 +34,7 @@ body{
 #lista{
     list-style: none;
     color: white;
+    padding-top: 15px;
 }
 
 #div2{
@@ -43,36 +44,43 @@ body{
     padding-top: 50px;
 }
 
+#div2 h1{
+    padding-bottom: 2.75cm;
+}
+
 td img{
     width: 120px;
 }
 
 a{
     color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
 }
 
 h1{
     font-size: 50px;
     height: 2cm;
-    text-align: center;
+    text-align: left;
 }
 
 h2{
     font-size: 25px;
     padding-right: 5.5cm;
-    text-align: center;
+    text-align: left;
+    padding-left: 4.5cm;
 }
 
 .gyakori{
     font-size: 50px;
+    padding-left: 1cm;
 }
 
 #korabbi{
-    padding-right: 2cm;
-}
-
-td{
-    padding-left: 2cm;
+    padding-left: 1cm;
 }
 
 li{
@@ -84,12 +92,67 @@ p{
     font-size: 25px;
 }
 
-.footer{
-    text-align: center;
+.hosszabb{
+    text-align: left;
+    padding-left: 1cm;
 }
 
-#jobb {
-    margin-left: 40%;
+.szoveg{
+    padding-left: 1cm;
+    padding-top: 1cm;
 }
+
+.golyo{
+    padding-left: 1cm;
+}
+
+.db{
+    padding-right: 10cm;
+    padding-top: 1cm;
+}
+
+footer p{
+    text-align: left;
+}
+
+.hasonlo{
+    padding-left: 1cm;
+}
+
+.leghosszabb{
+    text-align: left;
+    padding-left: 1cm;
+    font-size: 40px;
+}
+
+.szam{
+    padding-left: 1cm;
+    padding-top: 1cm;
+}
+
+.leggyakoribb{
+    font-size: 50px;
+    padding-left: 1cm;
+}
+
+.gyakorikep{
+    padding-top: 1cm;
+}
+
+.hasonlohet{
+    padding-top: 1cm;
+    padding-left: 1cm;
+}
+
+.összeg{
+    font-size: 30px;
+    padding-top: 4cm;
+    padding-left: 1cm;
+}
+
+.legkisebb h1{
+    padding-left: 1cm;
+}
+
 
 
