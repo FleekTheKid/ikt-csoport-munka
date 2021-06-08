@@ -29,6 +29,7 @@ img{
 body{
     width: 100%;
     font-size: small;
+    
 }
 
 #lista{
@@ -152,6 +153,11 @@ footer p{
 
 .legkisebb h1{
     padding-left: 1cm;
+}
+
+
+#igaz {
+    margin-top: 2cm;
 }
 
 
